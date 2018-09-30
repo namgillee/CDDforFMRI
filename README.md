@@ -1,4 +1,4 @@
-# CDD for fMRI
+# CDDforFMRI
 
 R Software for Copula Directional Dependence for Functional Magnetic Resonance Imaging (fMRI) Data Analysis
 
