@@ -1,0 +1,365 @@
+[1] "** Nonparametric ANOVA: dd_vtou  rho2 **"
+[1] "Edge R.M1<--R.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.038        0.492           0.117         0.528            0.078       0.901         0.511             
+signif  *                                                           .                         
+[1] "Edge R.M1<--R.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.276        0.235           0.517         0.72             0.424       0.463         0.244             
+signif                                                                                        
+[1] "Edge R.M1<--R.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.347        0.361           0.248         0.663            0.144       0.494          0.696             
+signif                                                                                        
+[1] "Edge R.M1<--R.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.802        0.828           0.477         0.743            0.615       0.878         0.705             
+signif                                                                                        
+[1] "Edge R.M1<--R.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.587        0.141           0.433         0.087            0.4         0.076         0.525            
+signif                                             .                            .             
+[1] "Edge R.M1<--R.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.891        0.629           0.605         0.967            0.668       0.31          0.121          
+signif                                                                                        
+[1] "Edge R.M1<--L.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.172        0.334           0.377         0.338            0.629       0.374         0.585             
+signif                                                                                        
+[1] "Edge R.M1<--L.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.51         0.211           0.193         0.445            0.229       0.194         0.279         
+signif                                                                                        
+[1] "Edge R.M1<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.62         0.087           0.833         0.163            0.964       0.239          0.172            
+signif               .                                                                        
+[1] "Edge R.M1<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.618        0.758           0.978         0.915            0.998       0.641         0.837             
+signif                                                                                        
+[1] "Edge R.M1<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.406        0.122           0.408         0.017            0.971       0.099         0.464             
+signif                                             *                            .             
+[1] "Edge R.M1<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.038        0.486           0.137         0.59             0.012       0.82          0.047             
+signif  *                                                           *                         *                 
+[1] "Edge R.M1<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.441        0.947           0.428         0.73             0.32        0.48          0.068             
+signif                                                                                        .                 
+[1] "Edge R.FEF<--R.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.879        0.358           0.935         0.45             0.819       0.277         0.063             
+signif                                                                                        .                 
+[1] "Edge R.FEF<--R.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.373        0.498           0.302         0.865            0.176       0.448         0.221             
+signif                                                                                        
+[1] "Edge R.FEF<--R.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.443        0.421           0.742         0.52             0.44        0.876         0.052             
+signif                                                                                        .                 
+[1] "Edge R.FEF<--R.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.982        0.667           0.975         0.89             0.784       0.484          0                 
+signif                                                                                         ***               
+[1] "Edge R.FEF<--R.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.458        0.526           0.243         0.738            0.325       0.514         0.018           
+signif                                                                                        *                 
+[1] "Edge R.FEF<--L.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.166        0.293           0.393         0.137            0.619       0.473          0.836       
+signif                                                                                        
+[1] "Edge R.FEF<--L.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.782        0.57            0.222         0.5              0.987       0.695          0.029             
+signif                                                                                         *                 
+[1] "Edge R.FEF<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.996        0.517           0.735         0.403            0.842       0.898          0.394             
+signif                                                                                        
+[1] "Edge R.FEF<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.093        0.977           0.113         0.4              0.401       0.981         0.259             
+signif  .                                                                                     
+[1] "Edge R.FEF<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.323        0.712           0.127         0.953            0.251       0.778          0.71           
+signif                                                                                        
+[1] "Edge R.FEF<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.003        0.208           0             0.225            0.022       0.805         0.519             
+signif  ***                          ***                            *                         
+[1] "Edge R.FEF<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.006        0.52            0.017         0.343            0.048       0.47          0.164             
+signif  **                           *                              *                         
+[1] "Edge R.aPFC<--R.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.557        0.719           0.705         0.58             0.794       0.516         0.498    
+signif                                                                                        
+[1] "Edge R.aPFC<--R.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.023        0.809           0.182         0.555            0.324       0.642       0.197               
+signif  *                                                                                     
+[1] "Edge R.aPFC<--R.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.109        0.737           0.027         0.948            0.244       0.833        0.316              
+signif                               *                                                        
+[1] "Edge R.aPFC<--R.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.006        0.88            0.018         0.842            0.012       0.324         0.007             
+signif  **                           *                              *                         **                
+[1] "Edge R.aPFC<--L.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.412        0.947           0.105         0.805            0.116       0.51        0.456            
+signif                                                                                        
+[1] "Edge R.aPFC<--L.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.551        0.361           0.542         0.507            0.597       0.502         0.208           
+signif                                                                                        
+[1] "Edge R.aPFC<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.128        0.698           0.175         0.698            0.19        0.784         0.291             
+signif                                                                                        
+[1] "Edge R.aPFC<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.464        0.583           0.615         0.795            0.83        0.849        0.602             
+signif                                                                                        
+[1] "Edge R.aPFC<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.724        0.242           0.827         0.222            0.807       0.17           0.049           
+signif                                                                                        *                
+[1] "Edge R.aPFC<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.922        0.828           0.805         0.61             0.441       0.357          0.187     
+signif                                                                                        
+[1] "Edge R.aPFC<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.608        0.123           0.585         0.152            0.837       0.062          0.24          
+signif                                                                          .             
+[1] "Edge R.V2<--R.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.581        0.082           0.333         0.03             0.753       0.433         0.675          
+signif               .                             *                                          
+[1] "Edge R.V2<--R.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.05         0.795           0.01          0.898            0.234       0.955         0.221         
+signif  .                            *                                                        
+[1] "Edge R.V2<--R.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.475        0.248           0.602         0.225            0.758       0.35       0.918              
+signif                                                                                        
+[1] "Edge R.V2<--L.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.14         0.73            0.192         0.67             0.677       0.959         0.562          
+signif                                                                                        
+[1] "Edge R.V2<--L.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.048        0.932           0.012         0.97             0.068       0.7           0.88              
+signif  *                            *                              .                         
+[1] "Edge R.V2<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.245        0.097           0.142         0.063            0.648       0.487         0.444        
+signif               .                             .                                          
+[1] "Edge R.V2<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.578        0.327           0.33          0.273            0.424       0.457          0.731           
+signif                                                                                        
+[1] "Edge R.V2<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.128        0.951           0.115         0.54             0.241       0.955          0.671            
+signif                                                                                        
+[1] "Edge R.V2<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.053        0.813           0.133         0.777            0.221       0.816          0.51        
+signif  .                                                                                     
+[1] "Edge R.V2<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.482        0.059           0.392         0.158            0.773       0.529         0.879             
+signif               .                                                                        
+[1] "Edge R.ITG<--R.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.078        0.887           0.118         0.62             0.598       0.624         0.647             
+signif  .                                                                                     
+[1] "Edge R.ITG<--R.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0            0.715           0.007         0.303            0.012       0.926         0.33           
+signif  ***                          **                             *                         
+[1] "Edge R.ITG<--L.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.03         0.698           0.042         0.898            0.101       0.42         0.248         
+signif  *                            *                                                        
+[1] "Edge R.ITG<--L.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.841        0.831           0.675         0.69             0.587       0.92           0.595             
+signif                                                                                        
+[1] "Edge R.ITG<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.01         0.726           0.005         0.938            0.031       0.559          0.09          
+signif  **                           **                             *                         .                 
+[1] "Edge R.ITG<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.213        0.407           0.448         0.97             0.732       0.989         0.834          
+signif                                                                                        
+[1] "Edge R.ITG<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.081        0.407           0.148         0.592            0.181       0.443         0.606         
+signif  .                                                                                     
+[1] "Edge R.ITG<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.187        0.472           0.122         0.183            0.238       0.842         0.336             
+signif                                                                                        
+[1] "Edge R.ITG<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.084        0.339           0.268         0.455            0.142       0.508          0.245             
+signif  .                                                                                     
+[1] "Edge R.vPCC<--R.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.064        0.831           0.073         0.863            0.188       0.808          0.802             
+signif  .                            .                                                        
+[1] "Edge R.vPCC<--L.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.437        0.179           0.322         0.19             0.415       0.213          0.168             
+signif                                                                                        
+[1] "Edge R.vPCC<--L.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.55         0.932           0.333         0.805            0.595       0.902         0.152       
+signif                                                                                        
+[1] "Edge R.vPCC<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.759        0.056           0.68          0.06             0.607       0.476          0.435             
+signif               .                             .                                          
+[1] "Edge R.vPCC<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.246        0.769           0.022         0.998            0.036       0.685         0.431             
+signif                               *                              *                         
+[1] "Edge R.vPCC<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.948        0.765           0.977         0.673            0.815       0.927         0.745         
+signif                                                                                        
+[1] "Edge R.vPCC<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.413        0.351           0.425         0.665            0.197       0.038         0                 
+signif                                                                          *             ***               
+[1] "Edge R.vPCC<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.182        0.168           0.13          0.09             0.344       0.203         0.128        
+signif                                             .                                          
+[1] "Edge R.TP<--L.TP"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.055        0.44            0.172         0.368            0.151       0.118         0.271      
+signif  .                                                                                     
+[1] "Edge R.TP<--L.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.193        0.523           0.592         0.438            0.696       0.977         0.411             
+signif                                                                                        
+[1] "Edge R.TP<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.122        0.586           0.293         0.675            0.177       0.791         0.044             
+signif                                                                                        *          
+[1] "Edge R.TP<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.332        0.91            0.177         0.595            0.468       0.781         0.718             
+signif                                                                                        
+[1] "Edge R.TP<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.784        0.917           0.857         0.593            0.899       0.973         0.995             
+signif                                                                                        
+[1] "Edge R.TP<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.21         0.538           0.265         0.403            0.567       0.503         0.639            
+signif                                                                                        
+[1] "Edge R.TP<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.627        0.188           0.498         0.325            0.188       0.075         0.075             
+signif                                                                          .             .                 
+[1] "Edge L.TP<--L.vPCC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.086        0.898           0.218         0.865            0.198       0.883         0.235             
+signif  .                                                                                     
+[1] "Edge L.TP<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.133        0.164           0.337         0.53             0.31        0.674         0.203           
+signif                                                                                        
+[1] "Edge L.TP<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.92         0.708           0.655         0.467            0.734       0.344         0.929             
+signif                                                                                        
+[1] "Edge L.TP<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.213        0.751           0.552         0.607            0.429       0.306         0.407             
+signif                                                                                        
+[1] "Edge L.TP<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.867        0.446           0.938         0.245            0.961       0.311         0.905     
+signif                                                                                        
+[1] "Edge L.TP<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.749        0.206           0.852         0.268            0.919       0.601         0.603        
+signif                                                                                        
+[1] "Edge L.vPCC<--L.ITG"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.101        0.3             0.032         0.233            0.199       0.794         0.441             
+signif                               *                                                        
+[1] "Edge L.vPCC<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.302        0.996           0.455         0.407            0.704       0.436         0.585        
+signif                                                                                        
+[1] "Edge L.vPCC<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.762        0.282           0.865         0.24             0.834       0.288         0.646            
+signif                                                                                        
+[1] "Edge L.vPCC<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.349        0.16            0.077         0.17             0.041       0.031         0.005       
+signif                               .                              *           *             ***     
+[1] "Edge L.vPCC<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.033        0.237           0.087         0.31             0.109       0.338         0.653       
+signif  *                            .                                                        
+[1] "Edge L.ITG<--L.V2"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.917        0.213           0.76          0.093            0.935       0.306         0.494    
+signif                                             .                                          
+[1] "Edge L.ITG<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.502        0.996           0.6           0.98             0.929       0.963         0.877             
+signif                                                                                        
+[1] "Edge L.ITG<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.65         0.452           0.525         0.27             0.838       0.391          0.622             
+signif                                                                                        
+[1] "Edge L.ITG<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.162        0.928           0.145         0.772            0.193       0.747         0.475             
+signif                                                                                        
+[1] "Edge L.V2<--L.aPFC"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.425        0.379           0.243         0.377            0.214       0.175         0.174             
+signif                                                                                        
+[1] "Edge L.V2<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.226        0.557           0.118         0.633            0.151       0.422         0.112             
+signif                                                                                        
+[1] "Edge L.V2<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.636        0.334           0.658         0.588            0.684       0.636         0.42              
+signif                                                                                        
+[1] "Edge L.aPFC<--L.FEF"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.421        0.116           0.42          0.302            0.261       0.2           0.083             
+signif                                                                                        
+[1] "Edge L.aPFC<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.588        0.233           0.442         0.352            0.44        0.628        0.901            
+signif                                                                                        
+[1] "Edge L.FEF<--L.M1"
+        Age(Kruskal) Gender(Kruskal) Age(Quantile) Gender(Quantile) Age(Median) Gender(Median) Age:Gender(Median)
+p.value 0.02         0.363           0.017         0.478            0.007       0.597         0.104        
+signif  *                            *                              **                        
