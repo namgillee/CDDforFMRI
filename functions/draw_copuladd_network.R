@@ -21,6 +21,8 @@ draw_copuladd_network <- function(x_all, idx_x_sub,
   #  file_png = NULL or file name string
   #  overlay = TRUE if the larger x_all should be drawn under x = resu_copuladd.sig
   #
+  # CAUTION: The saved TIFF image occupies somewhat large space... Need to modify the code
+  #
   # < CDD for FMRI >
   #   
   #   Copyright (C) 2018 Namgil Lee & Jong-Min Kim
