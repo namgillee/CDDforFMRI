@@ -3,6 +3,7 @@
 # https://cran.r-project.org/web/packages/spm12r/vignettes/fmri_processing_spm12r.html
 # This code is based on "An example of an fMRI analysis in SPM12" by John Muschelli: 
 # http://johnmuschelli.com/neuroc/fmri_analysis_spm12r/index.html 
+# NOTE: Running this code can consume a large amount of time.
 #
 # 2018.09.27. Namgil Lee & Jong-Min Kim
 
