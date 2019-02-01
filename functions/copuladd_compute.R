@@ -1,4 +1,5 @@
 copuladd_compute <- function(data, subset, weights = NULL, na.action, 
+                             copuladd_fun = copuladd_compute_2d, 
                              output.type = c('edgelist'), 
                              bootstrap.number = 1000, 
                              bootstrap.alpha = 0.05,
@@ -81,7 +82,7 @@ copuladd_compute <- function(data, subset, weights = NULL, na.action,
       for (idv in (idu+1):p) {
         cur_row <- cur_row + 1
         
-        rslt <- copuladd_compute_2d(Emp.index[,c(idu,idv)], out_diff = FALSE)
+        rslt <- copuladd_fun(Emp.index[, c(idu, idv, setdiff(1:p, c(idu, idv)))], out_diff = FALSE)
         utov_rho2 <- rslt$utov_rho2
         vtou_rho2 <- rslt$vtou_rho2
         
@@ -108,7 +109,7 @@ copuladd_compute <- function(data, subset, weights = NULL, na.action,
         if (bootstrap.number > 0) {
 
           ##########OLD_BOOTSTRAP_ALGORITHM_FOR_CONFIDENCE_INTERVAL##########
-          # boot.out <- boot(Emp.index[,c(idu,idv)], copuladd_compute_2d, R=bootstrap.number)
+          # boot.out <- boot(Emp.index[, c(idu, idv, setdiff(1:p, c(idu, idv)))], copuladd_fun, R=bootstrap.number)
           # myci = boot.ci(boot.out, conf = 1-bootstrap.alpha, type = "basic")
           # 
           # #------- Record CI ----------#
@@ -130,7 +131,7 @@ copuladd_compute <- function(data, subset, weights = NULL, na.action,
           for (k in 1:bootstrap.number) {
             ## Select subset from data
             ## Compute differences in all bootstraps
-            boot_diff[k] <- copuladd_compute_2d(Emp.index[sample(n,nsubset),c(idu,idv)], out_diff = TRUE)
+            boot_diff[k] <- copuladd_fun(Emp.index[sample(n,nsubset), c(idu, idv, setdiff(1:p, c(idu, idv)))], out_diff = TRUE)
           }
           #------- Record CI ----------#
           #myci = ci(boot_diff, confidence = 1-bootstrap.alpha)
